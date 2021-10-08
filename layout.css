@@ -1,0 +1,42 @@
+
+  html{
+      font-size: 25px;
+      font-family: 'open Sans',sans-serif;
+      background-color: rgb(237, 235, 241);
+     }
+     body{
+         background-color: aqua;
+         width: 500px;
+         border: 5px solid brown;
+         padding: 0px 20px 20px 20px;
+         margin: 0px 350px;
+     }
+
+  h1{
+      text-align: center;
+      font-size: 30px;
+      margin: 0;
+      
+            
+     }
+ 
+  img{
+      display: block;
+      margin: 0 auto;
+  }
+  p, li{
+      font-size: 15px;
+      line-height: 2;
+      letter-spacing: 1px;
+  }
+  marquee{
+      background-color:aquamarine;
+      font-size: medium;
+      direction:left;
+
+  }
+  
+  
+
+  
+  
